@@ -1,3 +1,3 @@
 gitgitgitgit
 change hi change ha
-git tracks changes
+git tracks changes of files
